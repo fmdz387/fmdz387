@@ -6,6 +6,7 @@
 
 ## 🌐 Open Source
 
+- 🔍 **[costats](https://github.com/fmdz387/costats)** - A lightweight Windows tray app that shows live status for AI coding providers like Codex and Claude Code, plus token usage and spend.
 - 🖥️ **[cli-ai](https://github.com/fmdz387/cli-ai)** - Natural language to shell commands. Multi-provider AI support (Anthropic, OpenAI, OpenRouter). Cross-platform.
 - ♞ **[browser-llm-extension](https://github.com/fmdz387/browser-llm-extension)** - Privacy-first AI toolkit for the browser. No backend, direct API calls only. Local (Ollama) + cloud provider support.
 
